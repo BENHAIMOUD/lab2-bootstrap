@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.center
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+#highlight1
+{
+    margin: 5% auto;
+}
+#highlight2
+{
+    text-align: right;
+}
+#highlight0{
+    border-radius: 2px;
+}
+@media screen and (min-width: 480px) and (max-width: 720px) {
+    img {
+        display: none;
+        margin-bottom: 2px;
+    }
+}
